@@ -1,0 +1,11 @@
+﻿  main.cpp
+f:\gps year 2\oop\labs\spatialhashassignment\spatialhashassignment\main.cpp(71): warning C4477: 'printf' : format string '%f' requires an argument of type 'double', but variadic argument 1 has type 'Uint32'
+  Game.cpp
+f:\gps year 2\oop\labs\spatialhashassignment\spatialhashassignment\game.cpp(101): warning C4477: 'printf' : format string '%f' requires an argument of type 'double', but variadic argument 1 has type 'int'
+  FPS.cpp
+f:\gps year 2\oop\labs\spatialhashassignment\spatialhashassignment\fps.cpp(51): warning C4018: '<': signed/unsigned mismatch
+f:\gps year 2\oop\labs\spatialhashassignment\spatialhashassignment\fps.cpp(58): warning C4244: '=': conversion from 'float' to 'Uint32', possible loss of data
+f:\gps year 2\oop\labs\spatialhashassignment\spatialhashassignment\fps.cpp(28): warning C4101: 'i': unreferenced local variable
+  Generating Code...
+  SpatialHashAssignment.vcxproj -> F:\GPS Year 2\OOP\Labs\SpatialHashAssignment\Debug\SpatialHashAssignment.exe
+  SpatialHashAssignment.vcxproj -> F:\GPS Year 2\OOP\Labs\SpatialHashAssignment\Debug\SpatialHashAssignment.pdb (Partial PDB)
